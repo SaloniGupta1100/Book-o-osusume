@@ -84,3 +84,33 @@ To use this Project Follow the steps below:-
    
    npm start
 ```
+
+
+## Tech Stack
+
+In spite of all the smart devices that exist today in the world, one thing that is common is - web and internet browsers. I selected my application to be a web application so that a large number of users are able to use it with ease and connect together
+
+*Client:* HTML, CSS
+
+*Server:* flask, numpy, pandas, jinja2, pickle
+
+## Future Scope
+
+-Adding more information the places for more efficient planning of the trip.
+
+-Adding wishlist feature and list of places done exploring.
+
+-Forming community Section where like-minded people and share their reviews and planout next trip with a group those have same level of energy.
+
+-Adding hybrid recommendation system in the homepage.
+
+
+## Bug Log
+
+-Sometimes Google Maps API shows error and doesn't work. 
+
+-Budget of the places is set to default.
+
+## Support and Contact
+
+Email: saloniofficial.09@gmail.com
