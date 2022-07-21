@@ -14,7 +14,7 @@ A recommendation system helps an organization to create loyal customers and buil
 In a very general way, recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy, or anything else depending on industries).
 
 
-*Watch Demo* : <a href="https://drive.google.com/file/d/19QrszJ03D6Qcg6gijL74d1WQ54JF382J/view?usp=sharing">Video Demo</a>
+*Watch Demo* : <a href="https://youtu.be/4PPGD_YRQnU">Video Demo</a>
 
 *Live* : <a href="https://book-o-osusume.herokuapp.com/">Try the Web App</a>
 
